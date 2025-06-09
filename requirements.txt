@@ -1,0 +1,9 @@
+python-dotenv
+langchain-openai
+langchain-community
+langchain-postgres
+langchain-experimental
+langchain-graph-retriever
+neo4j
+tiktoken
+psycopg[binary]
