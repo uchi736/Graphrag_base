@@ -1,9 +1,10 @@
 python-dotenv
-langchain-openai
+langchain
+langchain-core
 langchain-community
-langchain-postgres
 langchain-experimental
-langchain-graph-retriever
-neo4j
-tiktoken
+langchain-google-genai
+langchain-neo4j
+pgvector
 psycopg[binary]
+streamlit
